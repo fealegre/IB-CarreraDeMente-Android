@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">JuegoTrivia</string>
+    <string name="start">Start</string>
+    <string name="john_deh_">Nombre...</string>
+    <string name="ingrese_nombre">Ingrese nombre...</string>
+    <string name="ingrese_dni">Ingrese DNI...</string>
+    <string name="comenzar">Comenzar</string>
+    <string name="escanear">Escanear QR</string>
+    <string name="responder">Responder</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="escanear_qr">Escanear QR</string>
+    <string name="textview">Presione el botón \"Escanear QR\" y apunte la cámara hacia el código para obtener las preguntas</string>
+    <string name="puntaje">Puntaje</string>
+    <string name="puntaje_final">Puntaje Final</string>
+    <string name="nombre">Nombre</string>
+</resources>

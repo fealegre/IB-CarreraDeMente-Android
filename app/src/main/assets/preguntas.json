@@ -1,0 +1,1252 @@
+[
+  {
+    "pregunta": "¿En qué año se declaró la Independencia de Argentina?",
+    "puntaje": 10,
+    "opcion1": "1816",
+    "opcion2": "1810",
+    "opcion3": "1820",
+    "opcion4": "1806",
+    "respuesta": "1816",
+    "nivel": 1
+  },
+  {
+    "pregunta": " ¿Cuánto vale un Caballo en ajedrez?",
+    "puntaje": 20,
+    "opcion1": "1 punto",
+    "opcion2": "3 puntos",
+    "opcion3": "5 puntos",
+    "opcion4": "9 puntos",
+    "respuesta": "3 puntos",
+    "nivel": 1
+  },
+  {
+    "pregunta": " ¿Qué significa 'RAM' en el contexto de la informática?",
+    "puntaje": 20,
+    "opcion1": "Read Access Memory",
+    "opcion2": "Random Access Memory",
+    "opcion3": "Read and Modify Memory",
+    "opcion4": "Rapid Application Memory",
+    "respuesta": "Random Access Memory",
+    "nivel": 1
+  },
+  {
+    "pregunta": "¿Quién pintó el cuadro 'La Monna Lisa'?",
+    "puntaje": 10,
+    "opcion1": "Mozart",
+    "opcion2": "Leonardo Da Vinci",
+    "opcion3": "Van Gogh",
+    "opcion4": "Julián Álvarez",
+    "respuesta": "Leonardo Da Vinci",
+    "nivel": 1
+  },
+  {
+    "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+    "puntaje": 10,
+    "opcion1": "Mercurio",
+    "opcion2": "Marte",
+    "opcion3": "Saturno",
+    "opcion4": "Urano",
+    "respuesta": "Mercurio",
+    "nivel": 1
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo que atraviesa Argentina?",
+    "puntaje": 20,
+    "opcion1": "Río Paraná",
+    "opcion2": "Río Uruguay",
+    "opcion3": "Río Colorado",
+    "opcion4": "Río de la Plata",
+    "respuesta": "Río Paraná",
+    "nivel": 1
+  },
+  {
+    "pregunta": "¿Cuál de estas películas fue dirigida por Christopher Nolan?",
+    "puntaje": 20,
+    "opcion1": "El Origen",
+    "opcion2": "El Padrino",
+    "opcion3": "Tiempos Violentos",
+    "opcion4": "Titanic",
+    "respuesta": "El Origen",
+    "nivel": 1
+  },
+  {
+    "pregunta": "¿Qué pieza tiene un valor igual al del Alfil?",
+    "puntaje": 10,
+    "opcion1": "Peón",
+    "opcion2": "Caballo",
+    "opcion3": "Torre",
+    "opcion4": "Rey",
+    "respuesta": "Caballo",
+    "nivel": 1
+  },
+  {
+    "pregunta": "¿Qué función cumple un 'router' en una red informática?",
+    "puntaje": 20,
+    "opcion1": "Almacena datos de forma permanente",
+    "opcion2": "Conecta y dirige el tráfico entre redes diferentes",
+    "opcion3": "Proporciona procesamiento de gráficos",
+    "opcion4": "Filtra los datos de una red local",
+    "respuesta": "Conecta y dirige el tráfico entre redes diferentes",
+    "nivel": 1
+  },
+  {
+    "pregunta": "¿Cuál de estos elementos NO es considerado parte de las Bellas Artes?",
+    "puntaje": 10,
+    "opcion1": "Pintura",
+    "opcion2": "Escultura",
+    "opcion3": "Cocina",
+    "opcion4": "Arquitectura",
+    "respuesta": "Cocina",
+    "nivel": 1
+  },
+  {
+    "pregunta": "¿Cuál es el órgano más grande del cuerpo humano?",
+    "puntaje": 20,
+    "opcion1": "Estómago",
+    "opcion2": "Intestino Delgado",
+    "opcion3": "Intestino Grueso",
+    "opcion4": "Piel",
+    "respuesta": "Piel",
+    "nivel": 1
+  },
+  {
+    "pregunta": "¿Qué provincia argentina es conocida por su producción de vino y el Aconcagua?",
+    "puntaje": 10,
+    "opcion1": "Mendoza",
+    "opcion2": "San Juan",
+    "opcion3": "La Rioja",
+    "opcion4": "Neuquén",
+    "respuesta": "Mendoza",
+    "nivel": 1
+  },
+  {
+    "pregunta": "¿Quién interpretó a Jack Sparrow en Piratas del Caribe;?",
+    "puntaje": 10,
+    "opcion1": "Brad Pitt",
+    "opcion2": "Johnny Depp",
+    "opcion3": "Leonardo DiCaprio",
+    "opcion4": "Tom Cruise",
+    "respuesta": "Johnny Depp",
+    "nivel": 1
+  },
+  {
+    "pregunta": "¿Cuándo es el Día Mundial del Medio Ambiente?",
+    "puntaje": 20,
+    "opcion1": "5 de junio",
+    "opcion2": "22 de abril",
+    "opcion3": "1 de agosto",
+    "opcion4": "25 de diciembre",
+    "respuesta": "5 de junio",
+    "nivel": 1
+  },
+  {
+    "pregunta": "¿Qué es el Producto Interno Bruto (PIB)?",
+    "puntaje": 20,
+    "opcion1": "Diferencia entre el valor de lo exportado y lo importado por un país en un año",
+    "opcion2": "Conjunto de bienes y servicios producidos en un país en un año",
+    "opcion3": "El valor de todo lo producido por las empresas de un país dentro y fuera de sus fronteras.",
+    "opcion4": "El valor de dólar",
+    "respuesta": "Conjunto de bienes y servicios producidos en un país en un año",
+    "nivel": 1
+  },
+  {
+    "pregunta": "¿Cuántos habitantes tiene la ciudad de Barranqueras?",
+    "puntaje": 20,
+    "opcion1": "55.000 habitantes",
+    "opcion2": "1 millon de habitantes",
+    "opcion3": "3 millones de habitantes",
+    "opcion4": "10.000 habitantes",
+    "respuesta": "55.000 habitantes",
+    "nivel": 1
+  },
+  {
+    "pregunta": "¿Cuál fue el primer parque nacional del mundo?",
+    "puntaje": 20,
+    "opcion1": "Yellowstone",
+    "opcion2": "Yosemite",
+    "opcion3": "Picos de Europa",
+    "opcion4": "Iguazú",
+    "respuesta": "Yellowstone",
+    "nivel": 1
+  },
+  {
+    "pregunta":"Las deudas en una empresa se consideran...",
+    "puntaje": 10,
+    "opcion1": "Pasivos",
+    "opcion2": "Activos",
+    "opcion3": "Capital",
+    "opcion4": "Mercado",
+    "respuesta": "Pasivos",
+    "nivel": 1
+  },
+  {
+    "pregunta":"Cuando es el aniversario de la ciudad de Barranqueras?",
+    "puntaje": 20,
+    "opcion1": "11 de julio",
+    "opcion2": "6 de abril",
+    "opcion3": "3 de enero",
+    "opcion4": "15 de agosto",
+    "respuesta": "6 de abril",
+    "nivel": 1
+  },
+  {
+    "pregunta":"¿Qué colores tiene la bandera del Chaco?",
+    "puntaje": 10,
+    "opcion1": "Celeste y Blanco",
+    "opcion2": "Celeste, Verde y Blanco",
+    "opcion3": "Azul y verde",
+    "opcion4": "Azul y Rojo",
+    "respuesta": "Celeste, Verde y Blanco",
+    "nivel": 1
+  },
+  {
+    "pregunta":"¿¿Sobre qué avenida está ubicada la actual sede del municipio de Barranqueras?",
+    "puntaje": 20,
+    "opcion1": "Diagonal Eva Perón",
+    "opcion2": "Avenida Laprida",
+    "opcion3": "Avenida 9 de Julio",
+    "opcion4": "Avenida Las Heras",
+    "respuesta": "Diagonal Eva Perón",
+    "nivel": 1
+  },
+  {
+    "pregunta": "¿Cuál es el animal VIVO más grande del planeta?",
+    "puntaje": 20,
+    "opcion1": "Elefante",
+    "opcion2": "Mamut",
+    "opcion3": "Ballena Azul",
+    "opcion4": "Cóndor",
+    "respuesta": "Ballena Azul",
+    "nivel": 1
+  },
+  {
+    "pregunta":"En un monopolio......",
+    "puntaje": 20,
+    "opcion1": "Solo hay un comprador",
+    "opcion2": "Solo hay un productor",
+    "opcion3": "Solo hay un mercado",
+    "opcion4": "Hay un mercado común",
+    "respuesta": "Solo hay un productor",
+    "nivel": 1
+  },
+  {
+    "pregunta":"¿Qué se celebra el 1 de mayo?",
+    "puntaje": 20,
+    "opcion1": "Dia de la madre",
+    "opcion2": "Día del Trabajador",
+    "opcion3": "Día de la Mujer",
+    "opcion4": "Dia del Empleado de Comercio",
+    "respuesta": "Día del Trabajador",
+    "nivel": 1
+  },
+  {
+    "pregunta":"¿Qué comen los animales omnívoros?",
+    "puntaje": 20,
+    "opcion1": "vegetales",
+    "opcion2": "carne",
+    "opcion3": "carne y vegetales",
+    "opcion4": "cereales",
+    "respuesta": "carne y vegetales",
+    "nivel": 1
+  },
+  {
+    "pregunta": "¿En qué provincia argentina se encuentra el Parque Nacional Iguazú?",
+    "puntaje": 10,
+    "opcion1": "Corrientes",
+    "opcion2": "Entre Ríos",
+    "opcion3": "Catamarca",
+    "opcion4": "Misiones",
+    "respuesta": "Misiones",
+    "nivel": 2
+  },
+  {
+    "pregunta": " ¿Qué actor interpretó a Neo en la trilogía de The Matrix?",
+    "puntaje": 20,
+    "opcion1": "Keanu Reeves",
+    "opcion2": "Tom Hanks",
+    "opcion3": " Will Smith",
+    "opcion4": "Nicolas Cage",
+    "respuesta": "Keanu Reeves",
+    "nivel": 2
+  },
+  {
+    "pregunta": " ¿Cuál es el nombre de la escultura de Miguel Ángel que representa a un hombre desnudo y musculoso?",
+    "puntaje": 20,
+    "opcion1": "Jesus Redentor",
+    "opcion2": "El José",
+    "opcion3": "Adán",
+    "opcion4": "El David",
+    "respuesta": "El David",
+    "nivel": 2
+  },
+  {
+    "pregunta": "¿Cuál de estos estados NO es un estado de la materia?",
+    "puntaje": 10,
+    "opcion1": "Gaseoso",
+    "opcion2": "Acrílico",
+    "opcion3": "Sólido",
+    "opcion4": "Líquido",
+    "respuesta": "Acrílico",
+    "nivel": 2
+  },
+  {
+    "pregunta": "¿Cuál es el satélite natural de La Tierra?",
+    "puntaje": 10,
+    "opcion1": "Mercurio",
+    "opcion2": "Marte",
+    "opcion3": "La Luna",
+    "opcion4": "Urano",
+    "respuesta": "La Luna",
+    "nivel": 2
+  },
+  {
+    "pregunta":" En ajedrez ¿Cuál es la pieza que tiene mas movimientos?",
+    "puntaje": 20,
+    "opcion1": "La Reina",
+    "opcion2": "Alfil",
+    "opcion3": "El Rey",
+    "opcion4": "Caballo",
+    "respuesta": "La Reina",
+    "nivel": 2
+  },
+  {
+    "pregunta": "¿Qué significa 'IP' en el contexto de redes informáticas?",
+    "puntaje": 20,
+    "opcion1": "Input Port",
+    "opcion2": "Internet Protocol",
+    "opcion3": "Internal Processor",
+    "opcion4": "Integrated Pathway",
+    "respuesta": "Internet Protocol",
+    "nivel": 2
+  },
+  {
+    "pregunta": "¿Qué pieza tiene un valor igual al del Alfil?",
+    "puntaje": 10,
+    "opcion1": "Peón",
+    "opcion2": "Caballo",
+    "opcion3": "Torre",
+    "opcion4": "Rey",
+    "respuesta": "Caballo",
+    "nivel": 2
+  },
+  {
+    "pregunta": "¿Qué función cumple un 'router' en una red informática?",
+    "puntaje": 20,
+    "opcion1": "Almacena datos de forma permanente",
+    "opcion2": "Conecta y dirige el tráfico entre redes diferentes",
+    "opcion3": "Proporciona procesamiento de gráficos",
+    "opcion4": "Filtra los datos de una red local",
+    "respuesta": "Conecta y dirige el tráfico entre redes diferentes",
+    "nivel": 2
+  },
+  {
+    "pregunta": "¿Cuál es la capital de la Provincia de Buenos Aires?",
+    "puntaje": 20,
+    "opcion1": "Capital Federal",
+    "opcion2": "La Plata",
+    "opcion3": "Puerto Madero",
+    "opcion4": "Mar del Plata",
+    "respuesta": "La Plata",
+    "nivel": 2
+  },
+  {
+    "pregunta": "¿Quien dirigió la película Titanic?",
+    "puntaje": 10,
+    "opcion1": "James Cameron",
+    "opcion2": "Steven Spielberg",
+    "opcion3": "Ricardo Darín",
+    "opcion4": "Tarantino",
+    "respuesta": "James Cameron",
+    "nivel": 2
+  },
+  {
+    "pregunta": "¿Cuál es el pico más alto de la Cordillera de los Andes en Argentina?",
+    "puntaje": 10,
+    "opcion1": "Cerro Catedral",
+    "opcion2": "Cerro Aconcagua",
+    "opcion3": "Cerro Bonete",
+    "opcion4": "Cerro Tronador",
+    "respuesta": "Cerro Aconcagua",
+    "nivel": 2
+  },
+  {
+    "pregunta": "¿Quién interpretó a Jack Sparrow en Piratas del Caribe;?",
+    "puntaje": 10,
+    "opcion1": "Brad Pitt",
+    "opcion2": "Johnny Depp",
+    "opcion3": "Leonardo DiCaprio",
+    "opcion4": "Tom Cruise",
+    "respuesta": "Johnny Depp",
+    "nivel": 2
+  },
+  {
+    "pregunta": "¿Cuál de estos gases no es de efecto invernadero?",
+    "puntaje": 20,
+    "opcion1": "Vapor de Agua",
+    "opcion2": "Dióxido de Carbono",
+    "opcion3": "Monóxido de Carbono",
+    "opcion4": "Argón",
+    "respuesta": "Argón",
+    "nivel": 2
+  },
+  {
+    "pregunta": "¿En qué categoría de bienes y servicios clasifican las calles, carreteras y edificios patrimoniales?",
+    "puntaje": 20,
+    "opcion1": "Bienes Particulares",
+    "opcion2": "Bienes Gratuitos",
+    "opcion3": "Bienes Públicos",
+    "opcion4": "Bienes Patrimoniales",
+    "respuesta": "Bienes Patrimoniales",
+    "nivel": 2
+  },
+  {
+    "pregunta": "¿Cómo se llama el hospital de la ciudad de Barranqueras?",
+    "puntaje": 20,
+    "opcion1": "Magda Ayala",
+    "opcion2": "Bicentenario",
+    "opcion3": "Eva Perón",
+    "opcion4": "San MArtín",
+    "respuesta": "Eva Perón",
+    "nivel": 2
+  },
+  {
+    "pregunta": "¿Cuántas ESPECIES de seres vivos alberga nuestro planeta aproximadamente?",
+    "puntaje": 20,
+    "opcion1": "1 millón",
+    "opcion2": "8 millones",
+    "opcion3": "20 millones",
+    "opcion4": "30 millones",
+    "respuesta": "8 millones",
+    "nivel": 2
+  },
+  {
+    "pregunta":"¿Que significa inversión?",
+    "puntaje": 20,
+    "opcion1": "Destino de recursos para obtener un beneficio",
+    "opcion2": "Gasto público",
+    "opcion3": "Ahorros",
+    "opcion4": "Mercado",
+    "respuesta": "Destino de recursos para obtener un beneficio",
+    "nivel": 2
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes piezas se mueve solo en diagonal en el tablero de ajedrez?",
+    "puntaje": 20,
+    "opcion1": "Caballo",
+    "opcion2": "Peón",
+    "opcion3": "Torre",
+    "opcion4": "Alfil",
+    "respuesta": "Alfil",
+    "nivel": 2
+  },
+  {
+    "pregunta":"¿Qué colores tiene la bandera del Chaco?",
+    "puntaje": 10,
+    "opcion1": "Celeste y Blanco",
+    "opcion2": "Celeste, Verde y Blanco",
+    "opcion3": "Azul y verde",
+    "opcion4": "Azul y Rojo",
+    "respuesta": "Celeste, Verde y Blanco",
+    "nivel": 2
+  },
+  {
+    "pregunta":"¿Sobre qué avenida está ubicada la actual sede del municipio de Barranqueras?",
+    "puntaje": 10,
+    "opcion1": "Diagonal Eva Perón",
+    "opcion2": "Avenida Laprida",
+    "opcion3": "Avenida 9 de Julio",
+    "opcion4": "Avenida Las Heras",
+    "respuesta": "Diagonal Eva Perón",
+    "nivel": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de animal es el Delfín?",
+    "puntaje": 20,
+    "opcion1": "Mamífero",
+    "opcion2": "Ovíparo",
+    "opcion3": "Anfibio",
+    "opcion4": "Ave",
+    "respuesta": "Mamífero",
+    "nivel": 2
+  },
+  {
+    "pregunta":"¿Qué es la ganancia?",
+    "puntaje": 20,
+    "opcion1": "Ventas - costos",
+    "opcion2": "Recaudación",
+    "opcion3": "Gastos",
+    "opcion4": "Salario",
+    "respuesta": "Ventas - costos",
+    "nivel": 2
+  },
+  {
+    "pregunta":"¿Qué se celebra el 25 de mayo?",
+    "puntaje": 10,
+    "opcion1": "Primera Junta de Gobierno",
+    "opcion2": "Día del Taabajador",
+    "opcion3": "Día de la Mujer",
+    "opcion4": "Dia del Empleado de Comercio",
+    "respuesta": "Primera Junta de Gobierno",
+    "nivel": 2
+  },
+  {
+    "pregunta":"¿Qué comen los animales omnívoros?",
+    "puntaje": 10,
+    "opcion1": "vegetales",
+    "opcion2": "carne",
+    "opcion3": "carne y vegetales",
+    "opcion4": "cereales",
+    "respuesta": "carne y vegetales",
+    "nivel": 2
+  },
+  {
+    "pregunta": "En ajedrez, ¿Qué pieza puede saltar sobre otras piezas en su movimiento?",
+    "puntaje": 10,
+    "opcion1": "Torre",
+    "opcion2": "Caballo",
+    "opcion3": "Dama",
+    "opcion4": "Peón",
+    "respuesta": "Caballo",
+    "nivel": 3
+  },
+  {
+    "pregunta": " ¿Qué hace un 'PROCESADOR' en una computadora?",
+    "puntaje": 20,
+    "opcion1": "Almacena datos de forma permanente",
+    "opcion2": "Realiza cálculos y procesamiento de instrucciones",
+    "opcion3": " Controla la red de la computadora",
+    "opcion4": "Gestiona la memoria RAM",
+    "respuesta": "Realiza cálculos y procesamiento de instrucciones",
+    "nivel": 3
+  },
+  {
+    "pregunta": "¿En qué país se encuentra la torre de Pisa?",
+    "puntaje": 20,
+    "opcion1": "Francia",
+    "opcion2": "Grecia",
+    "opcion3": "Rusia",
+    "opcion4": "Italia",
+    "respuesta": "Italia",
+    "nivel": 3
+  },
+  {
+    "pregunta": "¿Qué autor inglés es conocido por las obras 'Hamlet' y 'Romeo y Julieta'?",
+    "puntaje": 10,
+    "opcion1": "Charles Dickens",
+    "opcion2": "Geoffrey Chaucer",
+    "opcion3": "William Shakespeare",
+    "opcion4": "John Milton",
+    "respuesta": "William Shakespeare",
+    "nivel": 3
+  },
+  {
+    "pregunta": "¿A cuál elemento de la tabla periódica le pertenece el símbolo “F”?",
+    "puntaje": 20,
+    "opcion1": "Fósforo",
+    "opcion2": "Flúor",
+    "opcion3": "Fermio",
+    "opcion4": "Ferovio",
+    "respuesta": "Flúor",
+    "nivel": 3
+  },
+  {
+    "pregunta": " ¿En qué provincia argentina se encuentra el famoso glaciar Perito Moreno?",
+    "puntaje": 10,
+    "opcion1": "Santa Cruz",
+    "opcion2": "Tierra del Fuego",
+    "opcion3": "Neuquén",
+    "opcion4": "Mendoza",
+    "respuesta": "Santa Cruz",
+    "nivel": 3
+  },
+  {
+    "pregunta": "¿En qué película de animación se busca a un pez llamado Nemo?",
+    "puntaje": 10,
+    "opcion1": "Shrek",
+    "opcion2": "Buscando a Nemo",
+    "opcion3": "Toy Story",
+    "opcion4": "Monsters, Inc",
+    "respuesta": "Buscando a Nemo",
+    "nivel": 3
+  },
+  {
+    "pregunta": "¿Cuál es el océano más grande?",
+    "puntaje": 20,
+    "opcion1": "Atlántico",
+    "opcion2": "Indico",
+    "opcion3": "Pacífico",
+    "opcion4": "Artico",
+    "respuesta": "Pacífico",
+    "nivel": 3
+  },
+  {
+    "pregunta":" En ajedrez, ¿Qué pieza puede moverse vertical y horizontalmente, pero no en diagonal?",
+    "puntaje": 20,
+    "opcion1": "Alfil",
+    "opcion2": "Dama",
+    "opcion3": "Torre",
+    "opcion4": "Rey",
+    "respuesta": "Torre",
+    "nivel": 3
+  },
+  {
+    "pregunta": " ¿Cuál es el país más grande del mundo?",
+    "puntaje": 20,
+    "opcion1": "Brasil",
+    "opcion2": "Egipto",
+    "opcion3": "Rusia",
+    "opcion4": "Canadá",
+    "respuesta": "Rusia",
+    "nivel": 3
+  },
+  {
+    "pregunta": " ¿Cuál es la función principal de un 'antivirus'?",
+    "puntaje": 20,
+    "opcion1": "Mejorar la velocidad del procesador",
+    "opcion2": "Proteger el sistema de software malicioso",
+    "opcion3": "Gestionar los archivos en el disco duro",
+    "opcion4": "Optimizar el rendimiento de la red",
+    "respuesta": "Proteger el sistema de software malicioso",
+    "nivel": 3
+  },
+  {
+    "pregunta": " ¿En qué país se encuentra el museo del Louvre?",
+    "puntaje": 20,
+    "opcion1": "Italia",
+    "opcion2": "España",
+    "opcion3": "Inglaterra",
+    "opcion4": "Francia",
+    "respuesta": "Francia",
+    "nivel": 3
+  },
+  {
+    "pregunta": " ¿Qué rama de la Biología estudia los animales?",
+    "puntaje": 10,
+    "opcion1": "Zoología",
+    "opcion2": "Microbiología",
+    "opcion3": "Botánica",
+    "opcion4": "Animalogía",
+    "respuesta": "Zoología",
+    "nivel": 3
+  },
+  {
+    "pregunta": "¿Qué función representa una parábola?",
+    "puntaje": 20,
+    "opcion1": "Función lineal",
+    "opcion2": "Función radical",
+    "opcion3": "Función cuadrática",
+    "opcion4": "Función logarítmica",
+    "respuesta": "Función cuadrática",
+    "nivel": 3
+  },
+  {
+    "pregunta": "¿Cuál es el verdadero nombre de la estatua ubicada en la intersección de Av. 9 de Julio, Av. España y Diagonal Eva Perón?",
+    "puntaje": 20,
+    "opcion1": "La Patona",
+    "opcion2": "Madre Patria",
+    "opcion3": "La Constitución",
+    "opcion4": "La Monona",
+    "respuesta": "La Constitución",
+    "nivel": 3
+  },
+  {
+    "pregunta": "¿Qué instrumento óptico permite ver los astros de cerca?",
+    "puntaje": 20,
+    "opcion1": "Microscopio",
+    "opcion2": "Telescopio",
+    "opcion3": "Astroscopio",
+    "opcion4": "Estetoscopio",
+    "respuesta": "Telescopio",
+    "nivel": 3
+  },
+  {
+    "pregunta": " ¿A quién le crecía la nariz cuando mentía?",
+    "puntaje": 10,
+    "opcion1": "Shrek",
+    "opcion2": "Blanca Nieves",
+    "opcion3": "Pinocho",
+    "opcion4": "Pulgarcito",
+    "respuesta": "Pinocho",
+    "nivel": 3
+  },
+  {
+    "pregunta":"¿Qué significa en Argentina la sigla IPC?",
+    "puntaje": 20,
+    "opcion1": "Inversión por Cabeza",
+    "opcion2": "Interna para Cambio",
+    "opcion3": "Indice de Precios al Consumidor ",
+    "opcion4": "Instituto del Patrimonio Comercial",
+    "respuesta": "Indice de Precios al Consumidor ",
+    "nivel": 3
+  },
+  {
+    "pregunta": " ¿Cuál es la unidad básica de la vida?",
+    "puntaje": 10,
+    "opcion1": "El átomo",
+    "opcion2": "La molécula",
+    "opcion3": "La célula",
+    "opcion4": "El Tejido",
+    "respuesta": "La célula",
+    "nivel": 3
+  },
+  {
+    "pregunta":" En que provincia argentina se encuentra el Parque Nacional Nahuel Huapi?",
+    "puntaje": 20,
+    "opcion1": "Chubut",
+    "opcion2": "Neuquén",
+    "opcion3": "Río Negro",
+    "opcion4": "Mendoza",
+    "respuesta": "Río Negro",
+    "nivel": 3
+  },
+  {
+    "pregunta": " ¿De qué estado fue emperador Napoleón Bonaparte?",
+    "puntaje": 10,
+    "opcion1": "España",
+    "opcion2": "Inglaterra",
+    "opcion3": "Francia",
+    "opcion4": "Italia",
+    "respuesta": "Francia",
+    "nivel": 3
+  },
+  {
+    "pregunta":"El triángulo que tiene sus tres lados iguales ¿Cómo se llama?",
+    "puntaje": 20,
+    "opcion1": "Equilátero",
+    "opcion2": "Isósceles",
+    "opcion3": "Escaleno",
+    "opcion4": "Recto",
+    "respuesta": "Equilátero",
+    "nivel": 3
+  },
+  {
+    "pregunta":" En ajedrez, ¿Cuántas casillas puede moverse el Rey en un solo turno?",
+    "puntaje": 20,
+    "opcion1": "1",
+    "opcion2": "2",
+    "opcion3": "3",
+    "opcion4": "4",
+    "respuesta": "1",
+    "nivel": 3
+  },
+  {
+    "pregunta":"¿Qué se celebra el 25 de mayo?",
+    "puntaje": 10,
+    "opcion1": "Primera Junta de Gobierno",
+    "opcion2": "Día del Taabajador",
+    "opcion3": "Día de la Mujer",
+    "opcion4": "Dia del Empleado de Comercio",
+    "respuesta": "Primera Junta de Gobierno",
+    "nivel": 3
+  },
+  {
+    "pregunta": " ¿Qué es un 'byte'?",
+    "puntaje": 10,
+    "opcion1": "Una unidad de almacenamiento de datos",
+    "opcion2": "Una unidad de procesamiento en el CPU",
+    "opcion3": "Un tipo de virus informático",
+    "opcion4": "Una dirección de red",
+    "respuesta": "Una unidad de almacenamiento de datos",
+    "nivel": 3
+  },
+  {
+    "pregunta": "¿Qué es 'Open Source' en software?",
+    "puntaje": 20,
+    "opcion1": "Software cuyo código fuente es accesible y modificable",
+    "opcion2": "Software que solo puede ser usado en dispositivos nokia",
+    "opcion3": "Software que se ejecuta en modo texto solamente",
+    "opcion4": "Software que necesita una licencia paga",
+    "respuesta": "Software cuyo código fuente es accesible y modificable",
+    "nivel": 4
+  },
+  {
+    "pregunta": " ¿Qué pieza puede moverse vertical y horizontalmente, pero no en diagonal?",
+    "puntaje": 10,
+    "opcion1": "Torre",
+    "opcion2": "Alfil",
+    "opcion3": " Rey",
+    "opcion4": "Peón",
+    "respuesta": "Torre",
+    "nivel": 4
+  },
+  {
+    "pregunta": "¿En qué país se encuentra la torre de Pisa?",
+    "puntaje": 20,
+    "opcion1": "Francia",
+    "opcion2": "Grecia",
+    "opcion3": "Rusia",
+    "opcion4": "Italia",
+    "respuesta": "Italia",
+    "nivel": 4
+  },
+  {
+    "pregunta": "¿Cómo se llama el fundador de Facebook?",
+    "puntaje": 20,
+    "opcion1": "Bill Gates",
+    "opcion2": "Zack Efron",
+    "opcion3": "Mark Zuckerberg",
+    "opcion4": "Bill Clinton",
+    "respuesta": "Mark Zuckerberg",
+    "nivel": 4
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un sistema operativo?",
+    "puntaje": 20,
+    "opcion1": "Windows",
+    "opcion2": "Linux",
+    "opcion3": "Office",
+    "opcion4": "Android",
+    "respuesta": "Office",
+    "nivel": 4
+  },
+  {
+    "pregunta": " ¿Quien escribió la novela 'Don Quijote'?",
+    "puntaje": 10,
+    "opcion1": "José Hernández",
+    "opcion2": "Miguel de Cervantes Saavedra",
+    "opcion3": "Pablo Neruda",
+    "opcion4": "Jorge Luis Borges",
+    "respuesta": "Miguel de Cervantes Saavedra",
+    "nivel": 4
+  },
+  {
+    "pregunta": "¿Cuál es la función principal del ADN?",
+    "puntaje": 10,
+    "opcion1": "Producir energía",
+    "opcion2": "Almacenar información genética",
+    "opcion3": "Transportar oxígeno",
+    "opcion4": "Regular la temperatura corporal",
+    "respuesta": "Almacenar información genética",
+    "nivel": 4
+  },
+  {
+    "pregunta": "¿Cuál es el océano más grande?",
+    "puntaje": 20,
+    "opcion1": "Atlántico",
+    "opcion2": "Indico",
+    "opcion3": "Pacífico",
+    "opcion4": "Artico",
+    "respuesta": "Pacífico",
+    "nivel": 4
+  },
+  {
+    "pregunta": " ¿Cuál de los siguientes ríos forma parte de la cuenca del Río de la Plata?",
+    "puntaje": 20,
+    "opcion1": "Río Paraguay",
+    "opcion2": "Río Pilcomayo",
+    "opcion3": "Río Salado",
+    "opcion4": "Río Neuquén",
+    "respuesta": "Río Paraguay",
+    "nivel": 4
+  },
+  {
+    "pregunta": " ¿Cuál es el país más grande del mundo?",
+    "puntaje": 20,
+    "opcion1": "Brasil",
+    "opcion2": "Egipto",
+    "opcion3": "Rusia",
+    "opcion4": "Canadá",
+    "respuesta": "Rusia",
+    "nivel": 4
+  },
+  {
+    "pregunta": " ¿Qué provincia argentina se encuentra en la región de la Pampa Húmeda?",
+    "puntaje": 10,
+    "opcion1": "Mendoza",
+    "opcion2": "Ushuaia",
+    "opcion3": "Buenos Aires",
+    "opcion4": "Misiones",
+    "respuesta": "Buenos Aires",
+    "nivel": 4
+  },
+  {
+    "pregunta": " ¿Cuál es el ave voladora más grande del mundo en la actualidad?",
+    "puntaje": 10,
+    "opcion1": "Dragón",
+    "opcion2": "Cóndor Andino",
+    "opcion3": "Avestruz",
+    "opcion4": "Albatros Viajero",
+    "respuesta": "Cóndor Andino",
+    "nivel": 4
+  },
+  {
+    "pregunta": " ¿En qué año se produce la Revolución Francesa?",
+    "puntaje": 10,
+    "opcion1": "1810",
+    "opcion2": "1816",
+    "opcion3": "1789",
+    "opcion4": "1650",
+    "respuesta": "1789",
+    "nivel": 4
+  },
+  {
+    "pregunta": "¿De qué país es originario el café?",
+    "puntaje": 20,
+    "opcion1": "Brasil",
+    "opcion2": "Colombia",
+    "opcion3": "Etiopía",
+    "opcion4": "India",
+    "respuesta": "Etiopía",
+    "nivel": 4
+  },
+  {
+    "pregunta": "¿Cuál es el verdadero nombre de la estatua ubicada en la intersección de Av. 9 de Julio, Av. España y Diagonal Eva Perón?",
+    "puntaje": 20,
+    "opcion1": "La Patona",
+    "opcion2": "Madre Patria",
+    "opcion3": "La Constitución",
+    "opcion4": "La Monona",
+    "respuesta": "La Constitución",
+    "nivel": 4
+  },
+  {
+    "pregunta": "¿Qué provincia argentina limita al norte con Bolivia?",
+    "puntaje": 10,
+    "opcion1": "Salta",
+    "opcion2": "Tucumán",
+    "opcion3": "Jujuy",
+    "opcion4": "Formosa",
+    "respuesta": "Jujuy",
+    "nivel": 4
+  },
+  {
+    "pregunta": " ¿Cuál era el nombre de pila del Che Guevara?",
+    "puntaje": 10,
+    "opcion1": "Roberto",
+    "opcion2": "Ernesto",
+    "opcion3": "Claudio",
+    "opcion4": "Cristian",
+    "respuesta": "Ernesto",
+    "nivel": 4
+  },
+  {
+    "pregunta": "¿En qué año llegó el ser humano a la Luna??",
+    "puntaje": 20,
+    "opcion1": "1950",
+    "opcion2": "1975",
+    "opcion3": "1969",
+    "opcion4": "1930",
+    "respuesta": "1969",
+    "nivel": 4
+  },
+  {
+    "pregunta": " ¿Cuál es la capital de la provincia de Córdoba?",
+    "puntaje": 20,
+    "opcion1": "Villa María",
+    "opcion2": "Río Cuarto",
+    "opcion3": "Córdoba",
+    "opcion4": "Villa Carlos Paz",
+    "respuesta": "Córdoba",
+    "nivel": 4
+  },
+  {
+    "pregunta": " ¿En qué año se produjeron los atentados sobre las Torres Gemelas de Nueva York?",
+    "puntaje": 10,
+    "opcion1": "2001",
+    "opcion2": "2011",
+    "opcion3": "2003",
+    "opcion4": "2008",
+    "respuesta": "2001",
+    "nivel": 4
+  },
+  {
+    "pregunta": " ¿Cuántos lados tiene un hexágono?",
+    "puntaje": 10,
+    "opcion1": "8",
+    "opcion2": "4",
+    "opcion3": "3",
+    "opcion4": "6",
+    "respuesta": "6",
+    "nivel": 4
+  },
+  {
+    "pregunta":" ¿Cuál es la primer parroquia inaugurada en la ciudad de Barranqueras?",
+    "puntaje": 20,
+    "opcion1": "Parroquia Inmaculada Concepción de María",
+    "opcion2": "Parroquia Cristo Redentor",
+    "opcion3": "Parroquia Don Orione",
+    "opcion4": "Parroquia San José Obrero",
+    "respuesta": "Parroquia Inmaculada Concepción de María",
+    "nivel": 4
+  },
+  {
+    "pregunta":" En ajedrez, ¿Cuántas casillas puede moverse el Rey en un solo turno?",
+    "puntaje": 20,
+    "opcion1": "1",
+    "opcion2": "2",
+    "opcion3": "3",
+    "opcion4": "4",
+    "respuesta": "1",
+    "nivel": 4
+  },
+  {
+    "pregunta":"¿Qué se celebra el 1 de marzo?",
+    "puntaje": 20,
+    "opcion1": "Día Internacional del Ambiente",
+    "opcion2": "Día Internacional de la Mujer",
+    "opcion3": "Día de la Madre",
+    "opcion4": "Dia del Empleado de Comercio",
+    "respuesta": "Día Internacional de la Mujer",
+    "nivel": 4
+  },
+  {
+    "pregunta": " ¿Qué es un 'byte'?",
+    "puntaje": 20,
+    "opcion1": "Una unidad de almacenamiento de datos",
+    "opcion2": "Una unidad de procesamiento en el CPU",
+    "opcion3": "Un tipo de virus informático",
+    "opcion4": "Una dirección de red",
+    "respuesta": "Una unidad de almacenamiento de datos",
+    "nivel": 4
+  },
+  {
+    "pregunta": "¿Cuál es el lago más grande de Argentina?",
+    "puntaje": 20,
+    "opcion1": "Lago Titicaca",
+    "opcion2": "Lago Nahuel Huapi",
+    "opcion3": "Lago Argentino",
+    "opcion4": "Lago Viedma",
+    "respuesta": "Lago Argentino",
+    "nivel": 5
+  },
+  {
+    "pregunta": " ¿Cuál de estas películas es parte del Universo Cinematográfico de Marvel?",
+    "puntaje": 10,
+    "opcion1": "El Señor de los Anillos",
+    "opcion2": "Harry Potter y la Piedra Filosofal",
+    "opcion3": " Batman: el Caballero de la Noche",
+    "opcion4": "Guardianes de la Galaxia",
+    "respuesta": "Guardianes de la Galaxia",
+    "nivel": 5
+  },
+  {
+    "pregunta": "¿Cuánto vale un Caballo en ajedrez?",
+    "puntaje": 20,
+    "opcion1": "1 punto",
+    "opcion2": "3 puntos",
+    "opcion3": "5 puntos",
+    "opcion4": "2 puntos",
+    "respuesta": "3 puntos",
+    "nivel": 5
+  },
+  {
+    "pregunta": "¿Cuál es el álbum musical más vendido de la Historia hasta hoy en día?",
+    "puntaje": 20,
+    "opcion1": "Thriller (Michael Jackson)",
+    "opcion2": "I Want to Hold Your Hand (The Beatles)",
+    "opcion3": "Album Navidad 1957 (Elvis PRestley)",
+    "opcion4": "El Guardaespaldas (Whitney Houston)",
+    "respuesta": "Thriller (Michael Jackson)",
+    "nivel": 5
+  },
+  {
+    "pregunta": "¿Cuál es el propósito principal de un 'Firewall'?",
+    "puntaje": 20,
+    "opcion1": "Proteger una red de accesos no autorizados",
+    "opcion2": "Gestionar el espacio de almacenamiento en disco",
+    "opcion3": "Aumentar la velocidad de la conexión a internet",
+    "opcion4": "Supervisar el rendimiento del sistema",
+    "respuesta": "Proteger una red de accesos no autorizados",
+    "nivel": 5
+  },
+  {
+    "pregunta": " ¿Quien escribió la novela 'Don Quijote'?",
+    "puntaje": 10,
+    "opcion1": "José Hernández",
+    "opcion2": "Miguel de Cervantes Saavedra",
+    "opcion3": "Pablo Neruda",
+    "opcion4": "Jorge Luis Borges",
+    "respuesta": "Miguel de Cervantes Saavedra",
+    "nivel": 5
+  },
+  {
+    "pregunta": "¿Cuál es la selva más grande del mundo?",
+    "puntaje": 10,
+    "opcion1": "Selva Misionera",
+    "opcion2": "Selva Colombiana",
+    "opcion3": "Selva Amazónica",
+    "opcion4": "Selva Australiana",
+    "respuesta": "Selva Amazónica",
+    "nivel": 5
+  },
+  {
+    "pregunta": "¿Quién pintó el cuadro 'La última cena'?",
+    "puntaje": 20,
+    "opcion1": "Miguel Ángel Buonarroti",
+    "opcion2": "Leonardo da Vinci",
+    "opcion3": "Rafael Sanzio",
+    "opcion4": "Vincent van Gogh",
+    "respuesta": "Leonardo da Vinci",
+    "nivel": 5
+  },
+  {
+    "pregunta":" Qué tipo de onda es la luz?",
+    "puntaje": 20,
+    "opcion1": "Onda mecánica",
+    "opcion2": "Onda longitudinal",
+    "opcion3": "Onda de choque",
+    "opcion4": "Onda electromagnética",
+    "respuesta": "Onda electromagnética",
+    "nivel": 5
+  },
+  {
+    "pregunta": " ¿Cuál es el país más poblado de África?",
+    "puntaje": 20,
+    "opcion1": "Mongolia",
+    "opcion2": "Nigeria",
+    "opcion3": "Sudáfrica",
+    "opcion4": "El Congo",
+    "respuesta": "Nigeria",
+    "nivel": 5
+  },
+  {
+    "pregunta": " ¿En qué provincia se encuentra la Quebrada de Humahuaca, un valle conocido por sus formaciones geológicas coloridas?",
+    "puntaje": 20,
+    "opcion1": "Mendoza",
+    "opcion2": "Ushuaia",
+    "opcion3": "Jujuy",
+    "opcion4": "Misiones",
+    "respuesta": "Jujuy",
+    "nivel": 5
+  },
+  {
+    "pregunta": " ¿Quién escribió “100 años de soledad”?",
+    "puntaje": 20,
+    "opcion1": "Pablo Neruda",
+    "opcion2": "Jorge Luis Borges",
+    "opcion3": "Gabriel García Márquez",
+    "opcion4": "Maria Elena Walsh",
+    "respuesta": "Gabriel García Márquez",
+    "nivel": 5
+  },
+  {
+    "pregunta": " ¿Cuánto dura cada una de las dos partes de un partido de fútbol?",
+    "puntaje": 10,
+    "opcion1": "25 minutos",
+    "opcion2": "90 minutos",
+    "opcion3": "45 minutos",
+    "opcion4": "15 minutos",
+    "respuesta": "45 minutos",
+    "nivel": 5
+  },
+  {
+    "pregunta": "¿De qué país es originario el café?",
+    "puntaje": 20,
+    "opcion1": "Brasil",
+    "opcion2": "Colombia",
+    "opcion3": "Etiopía",
+    "opcion4": "India",
+    "respuesta": "Etiopía",
+    "nivel": 5
+  },
+  {
+    "pregunta": "¿Quién fue el último faraón de Egipto?",
+    "puntaje": 20,
+    "opcion1": "Ramses",
+    "opcion2": "Cleopatra VII",
+    "opcion3": "Tutankamón",
+    "opcion4": "Akenatón",
+    "respuesta": "Cleopatra VII",
+    "nivel": 5
+  },
+  {
+    "pregunta": "¿Cuál es la capital de la provincia de Neuquén?",
+    "puntaje": 10,
+    "opcion1": "San Martín de los Andes",
+    "opcion2": "Bariloche",
+    "opcion3": "Neuquén",
+    "opcion4": "Villa La Angostura",
+    "respuesta": "Neuquén",
+    "nivel": 5
+  },
+  {
+    "pregunta": " ¿Qué personaje de 'Game of Thrones' es conocido como 'La Madre de Dragones'?",
+    "puntaje": 10,
+    "opcion1": "Cersei Lannister",
+    "opcion2": "Arya Stark",
+    "opcion3": "Daenerys Targaryen",
+    "opcion4": "Sansa Stark",
+    "respuesta": "Daenerys Targaryen",
+    "nivel": 5
+  },
+  {
+    "pregunta": "¿En qué año llegó el ser humano a la Luna?",
+    "puntaje": 20,
+    "opcion1": "1950",
+    "opcion2": "1975",
+    "opcion3": "1969",
+    "opcion4": "1930",
+    "respuesta": "1969",
+    "nivel": 5
+  },
+  {
+    "pregunta": " ¿Cuál es la montaña más alta del planeta?",
+    "puntaje": 20,
+    "opcion1": "Aconcagua",
+    "opcion2": "Everest",
+    "opcion3": "Himalaya",
+    "opcion4": "Alpes",
+    "respuesta": "Everest",
+    "nivel": 5
+  },
+  {
+    "pregunta": " ¿En qué país se encuentra el desierto de Atacama, uno de los desiertos más áridos del mundo?",
+    "puntaje": 10,
+    "opcion1": "Egipto",
+    "opcion2": "Estados Unidos",
+    "opcion3": "México",
+    "opcion4": "Chile",
+    "respuesta": "Chile",
+    "nivel": 5
+  },
+  {
+    "pregunta": " ¿En qué país europeo se encuentra el famoso castillo de Drácula, en Transilvania?",
+    "puntaje": 20,
+    "opcion1": "Rusia",
+    "opcion2": "Estados Unidos",
+    "opcion3": "Rumania",
+    "opcion4": "Inglaterra",
+    "respuesta": "Rumania",
+    "nivel": 5
+  },
+  {
+    "pregunta":" Cuantos años tiene la ciudad de Barranqueras?",
+    "puntaje": 20,
+    "opcion1": "100 años",
+    "opcion2": "150 años",
+    "opcion3": "117 años",
+    "opcion4": "125 años",
+    "respuesta": "117 años",
+    "nivel": 5
+  },
+  {
+    "pregunta": " ¿Qué proceso natural convierte la luz solar en energía química en las plantas?",
+    "puntaje": 10,
+    "opcion1": "riego",
+    "opcion2": "drenaje",
+    "opcion3": "fotosíntesis",
+    "opcion4": "cultivo",
+    "respuesta": "fotosíntesis",
+    "nivel": 5
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Canadá?",
+    "puntaje": 10,
+    "opcion1": "Ottawa",
+    "opcion2": "Alaska",
+    "opcion3": "Texas",
+    "opcion4": "Melbourne",
+    "respuesta": "Ottawa",
+    "nivel": 5
+  },
+  {
+    "pregunta": " ¿De qué ciudad son originarios los Beatles?",
+    "puntaje": 10,
+    "opcion1": "Londres",
+    "opcion2": "Gales",
+    "opcion3": "Liverpool",
+    "opcion4": "Illinois",
+    "respuesta": "Liverpool",
+    "nivel": 5
+  }
+]
